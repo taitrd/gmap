@@ -1,0 +1,16 @@
+{
+  "name": "@taitrd/gmap",
+  "version": "1.0.5",
+  "description": "google map plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "map",
+    "javascript"
+  ],
+  "author": "taitrd",
+  "license": "ISC"
+}
